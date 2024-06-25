@@ -329,3 +329,6 @@ defaults:
     values:
       layout: single
       author_profile: true
+      header:
+        image: /assets/images/beetles.jpg
+        image_description: "a pitfall trapping sample from the Netherlands"
